@@ -1,3 +1,10 @@
+# Lightweight Verification for Complex Systems (LiVe4CS)
+
+[LiVe4CS Workshop in Glasgow 2017-12-04](2017-12)
+
+
+----
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/patrikja/LiVe4CS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
