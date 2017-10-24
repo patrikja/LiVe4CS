@@ -1,6 +1,10 @@
 # Lightweight Verification for Complex Systems (LiVe4CS)
 
-[LiVe4CS Workshop in Glasgow 2017-12-04](https://patrikja.github.io/LiVe4CS/2017-12)
+A six-site European consortium for PhD education in Computer Science.
+
+News:
+
+* [LiVe4CS Workshop in Glasgow 2017-12-04](https://patrikja.github.io/LiVe4CS/2017-12)
 
 ----
 
@@ -12,6 +16,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
